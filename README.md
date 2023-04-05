@@ -2,6 +2,7 @@ GSSoC Roadmap
 
 GSSoC Roadmap
 =============
+![ROADY](https://user-images.githubusercontent.com/63473496/213306239-9e8fc317-ce2f-4127-8bfe-17f5df06ee99.png)
 
 Introduction
 ------------
@@ -81,6 +82,8 @@ GSSoC is an exciting opportunity for students to gain experience in open-source 
 
 Roadmap
 -------
+
+![roadmap](https://cdn.hashnode.com/res/hashnode/image/upload/v1623661215136/jPWcZyekD.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp)
 
 ### Step 1: Register for GSSoC
 
